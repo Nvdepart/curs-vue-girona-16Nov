@@ -19,7 +19,7 @@
 </template>
 
 <script>
-export default {
-  name: 'InspirePage'
-}
+    export default {
+      name: 'InspirePage'
+    }
 </script>

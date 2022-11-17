@@ -1,5 +1,8 @@
 <template>
   <div>
+    <lista-usuaris>
+
+    </lista-usuaris>
         <j-imagefs 
         imatge="https://images.pexels.com/photos/3889928/pexels-photo-3889928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         autor="Hicham Oukassou"
@@ -35,24 +38,7 @@
   </div>
 </template>
 <script>
-    export default{
-        data(){
-            estructura:[
-                {
-                    tipus:"full-image",
-                    imatge:"...",
-                    autor:"jordi gasau",
-                    altura:"90vh"
-                },
-                {
-                    tipus:"two-images",
-                    imatge1:"...",
-                    autor1:"dani perez",
-                    imatge2:"...",
-                    autor2:"eva alsina",
-                    altura:"50vh"
-                }
-            ]
-        }
-    }
+   export default{
+    
+   }
 </script>
