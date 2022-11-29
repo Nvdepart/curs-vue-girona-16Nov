@@ -20,7 +20,7 @@
             :height="altura">
             <v-container>
                 <v-row>
-                    <v-col align="end">
+                    <v-col align="end" color="white">
                         {{text2}}
                     </v-col>
                 </v-row>

@@ -7,5 +7,5 @@
       </v-main>
       <j-footer></j-footer>
     </v-app>
-  
+
   </template>

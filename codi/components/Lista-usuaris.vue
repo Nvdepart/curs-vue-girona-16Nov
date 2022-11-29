@@ -19,9 +19,7 @@
                    </v-img>  
                 </v-col>
                </v-row>
-                
-                
-
+            
                 <!--
                     <pre v-if="typeof(resposta)=='object'">
                 {{resposta["users"][0].email}} 
